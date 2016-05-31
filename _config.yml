@@ -1,0 +1,14 @@
+layout_spectrum: 0.29450883669778705
+typography_spectrum: 0.8772862206678838
+color:
+  brandStrength: 0.3233007399830967
+  lightness: 0.12334360647946596
+  saturation: 0.8513124804012477
+  rhythmicContrast: 0.02883410733193159
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: future acumen
